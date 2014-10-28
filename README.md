@@ -1,5 +1,5 @@
 Project-using-Spring-mvc-and-Hibernate
-======================================
+
 There are three entities Project,Employee and Client. Their is bidirectional mapping between Peoject->Employee and Project->Client.
 Functionalities being implemented:
 
@@ -33,11 +33,11 @@ Client : Drop down with existing clients
 
 Employee : Drop down with existing employees
 
-# Grid for employees with edit/delete/add option in Employee screen.
+-Grid for employees with edit/delete/add option in Employee screen.
 
-# Grid for client with edit/delete/add option in Client screen.
+-Grid for client with edit/delete/add option in Client screen.
 
-# Grid for Project with edit/delete/add option along with mapping options for employees and clients.
+-Grid for Project with edit/delete/add option along with mapping options for employees and clients.
 
 
               
